@@ -8,10 +8,7 @@ int main(void) {
   // Define the document
   Element document =
     hbox({
-      text("left")   | border,
-      text("middle") | border | flex,
-      text("right")  | border,
-      border(gauge(0.5))
+      border(gauge(0.5)) | border
     });
  
   auto screen = Screen::Create(
