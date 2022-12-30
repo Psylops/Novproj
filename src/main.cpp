@@ -11,9 +11,6 @@ int main(void) {
       text("left")   | border,
       text("middle") | border | flex,
       text("right")  | border,
-
-    });
-    hbox({
       border(gauge(0.5))
     });
  
