@@ -1,3 +1,3 @@
 # Novproj
 
-Basically this is a compiler for a custom programming language
+Basically this is a repo for a compiler for a custom programming language
