@@ -1,3 +1,3 @@
 # Novproj
 
-Basically this is a interface for a custom modified Arch Linux distro
+Basically this is a compiler for a custom programming language
